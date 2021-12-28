@@ -10,4 +10,4 @@ Signal is filtered using the following method:
 
 ![image](https://github.com/Anjali-Agarwal8/eog-based-virtual-keyboard/blob/main/Signal_filtering.jpg)
 
-Read more detail here: https://anjaliagarwal8.github.io/portfolio/eog/
+Read more details here: https://anjaliagarwal8.github.io/portfolio/eog/
